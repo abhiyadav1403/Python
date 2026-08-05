@@ -1,0 +1,15 @@
+2026-08-05 12:28:06,834 - multi_format_logger - DEBUG - This is a debug message
+2026-08-05 12:28:06,836 - multi_format_logger - INFO - This is an info message
+2026-08-05 12:28:06,837 - multi_format_logger - WARNING - This is a warning message
+2026-08-05 12:28:06,838 - multi_format_logger - ERROR - This is an error message
+2026-08-05 12:28:06,839 - multi_format_logger - CRITICAL - This is a critical message
+2026-08-05 12:29:54,204 - multi_format_logger - DEBUG - This is a debug message
+2026-08-05 12:29:54,204-multi_format_logger-DEBUG-This is a debug message
+2026-08-05 12:29:54,213 - multi_format_logger - INFO - This is an info message
+2026-08-05 12:29:54,213-multi_format_logger-INFO-This is an info message
+2026-08-05 12:29:54,214 - multi_format_logger - ERROR - This is an error message
+2026-08-05 12:29:54,214-multi_format_logger-ERROR-This is an error message
+2026-08-05 12:29:54,216 - multi_format_logger - WARNING - This is a warning message
+2026-08-05 12:29:54,216-multi_format_logger-WARNING-This is a warning message
+2026-08-05 12:29:54,219 - multi_format_logger - CRITICAL - This is a critical message
+2026-08-05 12:29:54,219-multi_format_logger-CRITICAL-This is a critical message

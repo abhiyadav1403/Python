@@ -13,3 +13,68 @@ INFO:root:This is info message
 WARNING:root:This is waring message
 ERROR:root:This is error message
 CRITICAL:root:This is critical message
+DEBUG:root:This is debug message
+INFO:root:This is info message
+WARNING:root:This is waring message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+DEBUG:root:This is debug message
+INFO:root:This is info message
+WARNING:root:This is waring message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+DEBUG:custom_logger:This is a debug message
+INFO:custom_logger:This is an info message
+WARNING:custom_logger:This is a warning message
+CRITICAL:custom_logger:This is a critical message
+ERROR:custom_logger:This is an error message
+DEBUG:custom_logger:This is a debug message
+INFO:custom_logger:This is an info message
+WARNING:custom_logger:This is a warning message
+CRITICAL:custom_logger:This is a critical message
+ERROR:custom_logger:This is an error message
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+ERROR:root:This is an error message
+WARNING:root:This is a warning message
+CRITICAL:root:This is a critical message
+DEBUG:root:This is debug message
+INFO:root:This is info message
+WARNING:root:This is waring message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+DEBUG:root:This is debug message
+INFO:root:This is info message
+WARNING:root:This is waring message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+DEBUG:custom_logger:This is a debug message
+INFO:custom_logger:This is an info message
+WARNING:custom_logger:This is a warning message
+CRITICAL:custom_logger:This is a critical message
+ERROR:custom_logger:This is an error message
+DEBUG:root:This is debug message
+INFO:root:This is info message
+WARNING:root:This is waring message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+DEBUG:root:This is debug message
+INFO:root:This is info message
+WARNING:root:This is waring message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+DEBUG:custom_logger:This is a debug message
+INFO:custom_logger:This is an info message
+WARNING:custom_logger:This is a warning message
+CRITICAL:custom_logger:This is a critical message
+ERROR:custom_logger:This is an error message
+DEBUG:multi_format_logger:This is a debug message
+INFO:multi_format_logger:This is an info message
+WARNING:multi_format_logger:This is a warning message
+ERROR:multi_format_logger:This is an error message
+CRITICAL:multi_format_logger:This is a critical message
+DEBUG:multi_format_logger:This is a debug message
+INFO:multi_format_logger:This is an info message
+ERROR:multi_format_logger:This is an error message
+WARNING:multi_format_logger:This is a warning message
+CRITICAL:multi_format_logger:This is a critical message
